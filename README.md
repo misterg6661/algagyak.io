@@ -1,0 +1,2 @@
+# algagyak.io
+alga megoldások
